@@ -3,4 +3,5 @@ A set of micro-services powering interactive video portal.
 
 ![](assets/Architecture.png?raw=true)
 
-## [Authentication API](../auth-api-nodejs)
+## [Authentication API](https://github.com/clickberry/web-services)
+JWT-based authentication service.
