@@ -11,6 +11,7 @@ A set of micro-services powering interactive video portal.
 * Platform independent: can be hosted on AWS, Google, Heroku, Digital Ocean, Azure or even on a on-premises hardware.
 * Open Source.
 * Mobile-first Web UI.
+* Rest API for Web, Mobile Devices, IoT and Desktop apps.
 * Hybrid video encoder: cloud and on-premises hardware together.
 * Great?
 
