@@ -8,7 +8,7 @@ A set of micro-services powering interactive video portal.
 * Easy to add new functionality by developing new services.
 * No Single-Point-of-Failure.
 * Mix of technologies, platforms and languages: the best tech. stack for each service.
-* Platform independent: can be hosted on AWS, Google, Heroku, Digital Ocean, Azure or event on-premises hardware.
+* Platform independent: can be hosted on AWS, Google, Heroku, Digital Ocean, Azure or even on the on-premises hardware.
 * Open Source.
 * Mobile-first Web UI.
 * Hybrid video encoder: cloud and on-premises hardware together.
