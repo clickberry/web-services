@@ -17,3 +17,6 @@ A set of micro-services powering interactive video portal.
 
 ## [Auth. API](//github.com/clickberry/auth-api-nodejs)
 JWT-based authentication service.
+
+## Contacts
+support@clickberry.com
