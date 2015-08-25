@@ -18,7 +18,7 @@ A set of micro-services powering video portal.
 ## Bus
 In the heart of the web services there is a messaging service called Bus. We use [NSQ](http://nsq.io) as a distributed realization of messaging service for our application. Since NSQ is distributes, we usually instantiate several `nsqd` instances registered in a few `nsqlookupd` routers. 
 
-We use special [nsqd-ecs](//github.com/clickberry/nsqd-ecs) ecs-optimized docker image which allows us easily scale up and down number of running nsqd instances.
+We use special ecs-optimized [nsqd](//github.com/clickberry/nsqd-ecs) docker images which allows us easily scale up and down the Bus, because they automatically retrieve their publi IP addresses and registers them in nsqlookupd.
 
 ## [Auth. API](//github.com/clickberry/auth-api-nodejs)
 JWT-based authentication service.
