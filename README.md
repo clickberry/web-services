@@ -15,6 +15,9 @@ A set of micro-services powering video portal.
 * Hybrid video encoder: cloud and on-premises hardware together.
 * Great?
 
+## Bus
+In the heart of the web services there is a messaging service called Bus. We use [NSQ](http://nsq.io) as a distributed realization of messaging service for our application.
+
 ## [Auth. API](//github.com/clickberry/auth-api-nodejs)
 JWT-based authentication service.
 
