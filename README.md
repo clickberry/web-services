@@ -18,5 +18,8 @@ A set of micro-services powering video portal.
 ## [Auth. API](//github.com/clickberry/auth-api-nodejs)
 JWT-based authentication service.
 
+## [Email Service](//github.com/clickberry/email-service-python)
+Email notification service.
+
 ## Contacts
 support@clickberry.com
