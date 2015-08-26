@@ -16,7 +16,7 @@ A set of micro-services powering video portal.
 * Great?
 
 ## Bus
-In the heart of the web services there is a messaging service called Bus. We use [NSQ](http://nsq.io) as a distributed realization of messaging service for our application. Since NSQ is distributes, we usually instantiate several `nsqd` instances registered in a few `nsqlookupd` routers. 
+In the heart of the web services there is a messaging service called Bus. We use [NSQ](http://nsq.io) as a distributed realization of messaging service for our application. Since NSQ is distributed, we usually instantiate several `nsqd` instances registered in a few `nsqlookupd` routers. 
 
 We use special ecs-optimized [nsqd](//github.com/clickberry/nsqd-ecs) docker images which allows us easily scale up and down the Bus, because they automatically retrieve their public IP addresses and registers them in nsqlookupd.
 
