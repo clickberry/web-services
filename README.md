@@ -1,5 +1,5 @@
 # Clickberry Web Services
-A set of micro-services powering video portal.
+A set of micro-services powering a video portal.
 
 ![](assets/Architecture.png?raw=true)
 
