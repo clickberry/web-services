@@ -21,10 +21,22 @@ In the heart of the web services there is a messaging service called Bus. We use
 We use special ecs-optimized [nsqd](//github.com/clickberry/nsqd-ecs) docker images which allows us easily scale up and down the Bus, because they automatically retrieve their public IP addresses and registers them in nsqlookupd.
 
 ## [Auth. API](//github.com/clickberry/auth-api-nodejs)
-JWT-based authentication service.
+JWT-based authentication micro-service.
 
 ## [Email Service](//github.com/clickberry/email-service-python)
-Email notification service.
+Email notification micro-service.
+
+## [Profiles API](//github.com/clickberry/profiles-api-nodejs)
+Profiles API micro-service.
+
+## [Profiles Service](//github.com/clickberry/profiles-service-nodejs)
+Profiles worker micro-service.
+
+## [Comments API](//github.com/clickberry/comments-api-nodejs)
+Comments API micro-service.
+
+## [Metadata API](//github.com/clickberry/metadata-api-nodejs)
+Metadata API micro-service.
 
 ## Contacts
 support@clickberry.com
