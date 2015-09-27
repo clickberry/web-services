@@ -38,5 +38,11 @@ Comments API micro-service.
 ## [Metadata API](//github.com/clickberry/metadata-api-nodejs)
 Metadata API micro-service.
 
+## [Videos API](//github.com/clickberry/videos-api-nodejs)
+Video encoding proxy micro-service on Node.js.
+
+## [Images API](//github.com/clickberry/images-api-nodejs)
+Images API micro-service on Node.js.
+
 ## Contacts
 support@clickberry.com
