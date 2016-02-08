@@ -44,5 +44,20 @@ Video encoding proxy micro-service on Node.js.
 ## [Images API](//github.com/clickberry/images-api-nodejs)
 Images API micro-service on Node.js.
 
+## [Projects API](//github.com/clickberry/projects-api-nodejs)
+Projects API micro-service.
+
+## [Projects Service](//github.com/clickberry/projects-service-nodejs)
+Projects worker micro-service.
+
+## [Projects admin API](//github.com/clickberry/projects-admin-api-nodejs)
+Projects admin API micro-service.
+
+## [Users admin API](//github.com/clickberry/users-admin-api-nodejs)
+Users admin API micro-service.
+
+## [Users admin Service](//github.com/clickberry/users-admin-service-nodejs)
+Users admin worker micro-service.
+
 ## Contacts
 support@clickberry.com
